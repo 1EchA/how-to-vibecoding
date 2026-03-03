@@ -1,5 +1,7 @@
 <div data-theme-toc="true"></div>
 
+### 本篇为linuxdo原文，拆分后的请移步doc文件夹
+
 ### AI 编程环境搭建指南 (Claude / Gemini / OpenAI)
 
 > 覆盖工具：Claude Code、Gemini CLI、Codex CLI 及其对应的 VS Code 插件
