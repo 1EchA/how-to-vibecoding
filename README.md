@@ -26,7 +26,7 @@
 |------|----------|----------|
 | [**基础篇**](./01-Vibecoding基础教程.md) | macOS / Windows 环境搭建，Claude / Gemini / Codex CLI 与 VS Code 配置，Skills & MCP 入门推荐 | [Linux.do](https://linux.do/t/topic/1615649) |
 | [**进阶篇（一）**](./02-进阶教程（一）：MCP+Skills让coding-agent有自己的工具.md) | MCP+Skills让coding-agent有自己的工具 | [Linux.do](https://linux.do/t/topic/1770399) |
-| [**进阶篇（二）**](./03-进阶教程（二）：多智能体分工与长任务治理.md) | 多智能体分工与长任务治理 | [Linux.do](https://linux.do/t/topic/1773192) |
+| [**进阶篇（二）**](./03-进阶教程（二）：多智能体分工+长任务治理.md) | 多智能体分工与长任务治理 | [Linux.do](https://linux.do/t/topic/1773192) |
 | [**进阶篇（三）**](./04-进阶教程（三）：安全、评测与流水线.md) | 安全、评测与流水线| [Linux.do](https://linux.do/t/topic/1774606) |
 | [**精选 Skills 推荐**](./05-精选Skills推荐：10个让coding-agent如虎添翼的技能.md) | 10 个让 Coding Agent 如虎添翼的 Skills + 优质来源分享 | [Linux.do](https://linux.do/t/topic/1802808) |
 
